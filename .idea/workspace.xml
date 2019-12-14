@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="603fab09-ac2e-4754-a3b1-82fb0fbce539" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeTang/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/KeTang/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeTang/data/data.xls" beforeDir="false" afterPath="$PROJECT_DIR$/KeTang/data/data.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeTang/lib/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/KeTang/lib/db.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeTang/lib/email_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/KeTang/lib/email_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeTang/lib/excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/KeTang/lib/excel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeTang/lib/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/KeTang/lib/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeTang/log/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/KeTang/log/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeTang/report/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/KeTang/report/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeTang/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/KeTang/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeTang/testcase/test_add_fuel_card.py" beforeDir="false" afterPath="$PROJECT_DIR$/KeTang/testcase/test_add_fuel_card.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeTang/testcase/test_query_fuel_card.py" beforeDir="false" afterPath="$PROJECT_DIR$/KeTang/testcase/test_query_fuel_card.py" afterDir="false" />
+    </list>
+    <ignored path="jiekou20190224.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/jiekou20190224$Unittests_in_test_add_fuel_card_py.coverage" NAME="Unittests in test_add_fuel_card.py Coverage Results" MODIFIED="1569425344416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KeTang/testcase" />
+    <SUITE FILE_PATH="coverage/jiekou20190224$run.coverage" NAME="run Coverage Results" MODIFIED="1569425366972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KeTang" />
+    <SUITE FILE_PATH="coverage/jiekou20190224$email_1.coverage" NAME="email_1 Coverage Results" MODIFIED="1567349306854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KeTang/lib" />
+    <SUITE FILE_PATH="coverage/jiekou20190224$Unittests_for_test_add_fuel_card_TestAddFuelCard_test_add_fuel_card.coverage" NAME="Unittests for test_add_fuel_card.TestAddFuelCard.test_add_fuel_card Coverage Results" MODIFIED="1567914480738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KeTang/testcase" />
+    <SUITE FILE_PATH="coverage/jiekou20190224$excel.coverage" NAME="excel Coverage Results" MODIFIED="1567349367014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KeTang/lib" />
+    <SUITE FILE_PATH="coverage/jiekou20190224$config.coverage" NAME="config Coverage Results" MODIFIED="1569043552955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KeTang" />
+    <SUITE FILE_PATH="coverage/jiekou20190224$Unittests_in_test_query_fuel_card_py.coverage" NAME="Unittests in test_query_fuel_card.py Coverage Results" MODIFIED="1569045403136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KeTang/testcase" />
+    <SUITE FILE_PATH="coverage/jiekou20190224$Unittests_for_test_add_fuel_card_TestAddFuelCard.coverage" NAME="Unittests for test_add_fuel_card.TestAddFuelCard Coverage Results" MODIFIED="1569043595435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KeTang/testcase" />
+    <SUITE FILE_PATH="coverage/jiekou20190224$Unittests_for_test_query_fuel_card_TestQueryFuelCard.coverage" NAME="Unittests for test_query_fuel_card.TestQueryFuelCard Coverage Results" MODIFIED="1569422065578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KeTang/testcase" />
+    <SUITE FILE_PATH="coverage/jiekou20190224$Unittests_for_test_query_fuel_card_TestQueryFuelCard_test_query_fuel_card_1.coverage" NAME="Unittests for test_query_fuel_card.TestQueryFuelCard.test_query_fuel_card_1 Coverage Results" MODIFIED="1569425053068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KeTang/testcase" />
+    <SUITE FILE_PATH="coverage/jiekou20190224$db.coverage" NAME="db Coverage Results" MODIFIED="1567610693115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KeTang/lib" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="jiekou20190224" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KeTang/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="18" column="128" selection-start-line="18" selection-start-column="128" selection-end-line="18" selection-end-column="128" />
+              <folding>
+                <element signature="e#13#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KeTang/lib/db.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="e#12#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KeTang/testcase/test_add_fuel_card.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/KeTang/lib/email_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+              <folding>
+                <element signature="e#11#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KeTang/lib/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KeTang/testcase/test_query_fuel_card.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>smtplib</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/KeTang" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/KeTang/day03_execise_02.py" />
+        <option value="$PROJECT_DIR$/KeTang/common.py" />
+        <option value="$PROJECT_DIR$/KeTang/test_get_user_list.py" />
+        <option value="$PROJECT_DIR$/KeTang/day03_execise_05.py" />
+        <option value="$PROJECT_DIR$/KeTang/test_use_assert.py" />
+        <option value="$PROJECT_DIR$/KeTang/test_login2.py" />
+        <option value="$PROJECT_DIR$/KeTang/run_all1.py" />
+        <option value="$PROJECT_DIR$/KeTang/day03_execise_04.py" />
+        <option value="$PROJECT_DIR$/KeTang/test_reg2.py" />
+        <option value="$PROJECT_DIR$/KeTang/day03_execise_06.py" />
+        <option value="$PROJECT_DIR$/ZuoYe/config.py" />
+        <option value="$PROJECT_DIR$/KeTang/test_reg.py" />
+        <option value="$PROJECT_DIR$/ZuoYe/db.py" />
+        <option value="$PROJECT_DIR$/ZuoYe/test_banding_card.py" />
+        <option value="$PROJECT_DIR$/ZuoYe/test_query_card.py" />
+        <option value="$PROJECT_DIR$/ZuoYe/run_all.py" />
+        <option value="$PROJECT_DIR$/ZuoYe/test_bundling_card.py" />
+        <option value="$PROJECT_DIR$/ZuoYe/test_recharge_card.py" />
+        <option value="$PROJECT_DIR$/ZuoYe/test_add_card.py" />
+        <option value="$PROJECT_DIR$/ZuoYe/test_consume_card.py" />
+        <option value="$PROJECT_DIR$/KeTang/ｔｅｓｔ.py" />
+        <option value="$PROJECT_DIR$/KeTang/test_add_card.py" />
+        <option value="$PROJECT_DIR$/KeTang/test_search_fuel_card.py" />
+        <option value="$PROJECT_DIR$/KeTang/db.py" />
+        <option value="$PROJECT_DIR$/KeTang/day04_use_logging.py" />
+        <option value="$PROJECT_DIR$/KeTang/lib/config.py" />
+        <option value="$PROJECT_DIR$/KeTang/tmp/config.py" />
+        <option value="$PROJECT_DIR$/KeTang/day04_use_excel.py" />
+        <option value="$PROJECT_DIR$/KeTang/test/base_case.py" />
+        <option value="$PROJECT_DIR$/KeTang/test/test_search_fuel_card.py" />
+        <option value="$PROJECT_DIR$/KeTang/test_case/base_case.py" />
+        <option value="$PROJECT_DIR$/KeTang/test_case/test_search_fuel_card.py" />
+        <option value="$PROJECT_DIR$/KeTang/testcase/basecase.py" />
+        <option value="$PROJECT_DIR$/KeTang/tmp/run.py" />
+        <option value="$PROJECT_DIR$/KeTang/testcase/test_search_fuel_card２.py" />
+        <option value="$PROJECT_DIR$/KeTang/testcase/test_search_fuel_card.py" />
+        <option value="$PROJECT_DIR$/KeTang/testcase/test_add_card.py" />
+        <option value="$PROJECT_DIR$/KeTang/testcase/excel.py" />
+        <option value="$PROJECT_DIR$/KeTang/testcase/db.py" />
+        <option value="$PROJECT_DIR$/KeTang/lib/test_query_fuel_card.py" />
+        <option value="$PROJECT_DIR$/KeTang/lib/email.py" />
+        <option value="$PROJECT_DIR$/KeTang/log/log.txt" />
+        <option value="$PROJECT_DIR$/KeTang/lib/excel.py" />
+        <option value="$PROJECT_DIR$/KeTang/run.py" />
+        <option value="$PROJECT_DIR$/KeTang/lib/utils.py" />
+        <option value="$PROJECT_DIR$/KeTang/lib/db.py" />
+        <option value="$PROJECT_DIR$/KeTang/testcase/test_query_fuel_card.py" />
+        <option value="$PROJECT_DIR$/KeTang/config.py" />
+        <option value="$PROJECT_DIR$/../../Python15期笔记/第三天/老师代码/day03/day03_execise_02.py" />
+        <option value="$PROJECT_DIR$/KeTang/testcase/test_add_fuel_card.py" />
+        <option value="$PROJECT_DIR$/KeTang/lib/email_1.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="y" value="2" />
+    <option name="width" value="1378" />
+    <option name="height" value="733" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jiekou20190224" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jiekou201903017" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jiekou20190224" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jiekou201903017" type="462c0819:PsiDirectoryNode" />
+              <item name="KeTang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jiekou20190224" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jiekou201903017" type="462c0819:PsiDirectoryNode" />
+              <item name="KeTang" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jiekou20190224" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jiekou201903017" type="462c0819:PsiDirectoryNode" />
+              <item name="KeTang" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Python15期笔记/第三天/老师代码/day03/day03_execise_02.py" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\python15qi\jiekou201903017\KeTang\lib" />
+      <recent name="E:\python15qi\jiekou201903017\KeTang\testcase" />
+      <recent name="E:\python15qi\jiekou201903010\KeTang\tmp" />
+      <recent name="E:\python15qi\jiekou201903010\KeTang" />
+      <recent name="E:\python15qi\jiekou201903010\KeTang\log" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\python15qi\jiekou201903010\KeTang" />
+      <recent name="E:\python15qi\jiekou201903010\KeTang\tmp" />
+      <recent name="E:\python15qi\jiekou20190224\KeTang" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_add_fuel_card.TestAddFuelCard">
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="jiekou20190224" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration name="day03_execise_02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="jiekou20190224" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Python15期笔记/第三天/老师代码/day03" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Python15期笔记/第三天/老师代码/day03/day03_execise_02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="jiekou20190224" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KeTang" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KeTang/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_add_fuel_card.TestAddFuelCard" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="jiekou20190224" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KeTang/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_add_fuel_card.TestAddFuelCard&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_add_fuel_card.TestAddFuelCard.test_add_fuel_card" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="jiekou20190224" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KeTang/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_add_fuel_card.TestAddFuelCard.test_add_fuel_card&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_query_fuel_card.TestQueryFuelCard" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="jiekou20190224" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KeTang/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_query_fuel_card.TestQueryFuelCard&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.day03_execise_02" />
+      <item itemvalue="Python tests.Unittests for test_query_fuel_card.TestQueryFuelCard" />
+      <item itemvalue="Python tests.Unittests for test_add_fuel_card.TestAddFuelCard" />
+      <item itemvalue="Python tests.Unittests for test_add_fuel_card.TestAddFuelCard.test_add_fuel_card" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_add_fuel_card.TestAddFuelCard" />
+        <item itemvalue="Python.day03_execise_02" />
+        <item itemvalue="Python tests.Unittests for test_add_fuel_card.TestAddFuelCard.test_add_fuel_card" />
+        <item itemvalue="Python tests.Unittests for test_query_fuel_card.TestQueryFuelCard" />
+        <item itemvalue="Python.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="603fab09-ac2e-4754-a3b1-82fb0fbce539" name="Default" comment="" />
+      <created>1550758032176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550758032176</updated>
+      <workItem from="1564673486891" duration="5083000" />
+      <workItem from="1564899625568" duration="9210000" />
+      <workItem from="1565016803218" duration="35000" />
+      <workItem from="1565188177309" duration="4439000" />
+      <workItem from="1565449249093" duration="4249000" />
+      <workItem from="1565621815185" duration="1865000" />
+      <workItem from="1565707363565" duration="3229000" />
+      <workItem from="1565969883659" duration="9000" />
+      <workItem from="1565969930446" duration="691000" />
+      <workItem from="1566042251562" duration="25000" />
+      <workItem from="1566314076624" duration="449000" />
+      <workItem from="1566397842090" duration="476000" />
+      <workItem from="1566659228490" duration="930000" />
+      <workItem from="1566695346499" duration="4143000" />
+      <workItem from="1566918124317" duration="2308000" />
+      <workItem from="1567046902040" duration="10152000" />
+      <workItem from="1567136033708" duration="4139000" />
+      <workItem from="1567180891584" duration="607000" />
+      <workItem from="1567183413825" duration="658000" />
+      <workItem from="1567348981156" duration="11004000" />
+      <workItem from="1567903624927" duration="8325000" />
+      <workItem from="1569042959383" duration="18326000" />
+      <workItem from="1570951207662" duration="48000" />
+      <workItem from="1570952009146" duration="183000" />
+      <workItem from="1570956530772" duration="9000" />
+      <workItem from="1570969416076" duration="2357000" />
+      <workItem from="1571237382919" duration="890000" />
+      <workItem from="1574176128851" duration="2271000" />
+      <workItem from="1574347063539" duration="5312000" />
+      <workItem from="1575558372488" duration="4454000" />
+      <workItem from="1576335883530" duration="6990000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_add_fuel_card_TestAddFuelCard - 2019.10.13 at 23h 24m 25s.xml">
+      <configuration name="Unittests for test_add_fuel_card.TestAddFuelCard" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_add_fuel_card_TestAddFuelCard - 2019.11.19 at 23h 35m 01s.xml">
+      <configuration name="Unittests for test_add_fuel_card.TestAddFuelCard" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_add_fuel_card_TestAddFuelCard_test_add_fuel_card - 2019.11.19 at 23h 36m 37s.xml">
+      <configuration name="Unittests for test_add_fuel_card.TestAddFuelCard.test_add_fuel_card" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_add_fuel_card_TestAddFuelCard_test_add_fuel_card - 2019.11.19 at 23h 37m 00s.xml">
+      <configuration name="Unittests for test_add_fuel_card.TestAddFuelCard.test_add_fuel_card" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_add_fuel_card_TestAddFuelCard_test_add_fuel_card - 2019.11.19 at 23h 37m 37s.xml">
+      <configuration name="Unittests for test_add_fuel_card.TestAddFuelCard.test_add_fuel_card" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_add_fuel_card_TestAddFuelCard - 2019.11.19 at 23h 38m 45s.xml">
+      <configuration name="Unittests for test_add_fuel_card.TestAddFuelCard" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_add_fuel_card_TestAddFuelCard - 2019.11.19 at 23h 39m 41s.xml">
+      <configuration name="Unittests for test_add_fuel_card.TestAddFuelCard" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_add_fuel_card_TestAddFuelCard - 2019.11.19 at 23h 40m 17s.xml">
+      <configuration name="Unittests for test_add_fuel_card.TestAddFuelCard" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_add_fuel_card_TestAddFuelCard - 2019.11.19 at 23h 41m 04s.xml">
+      <configuration name="Unittests for test_add_fuel_card.TestAddFuelCard" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_add_fuel_card_TestAddFuelCard - 2019.11.22 at 23h 30m 02s.xml">
+      <configuration name="Unittests for test_add_fuel_card.TestAddFuelCard" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="112880000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="2" width="1378" height="733" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14415781" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.09803922" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6459909" weight="0.04918033" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.66013074" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295082" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.5622951" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.7953869" visible="true" weight="0.62771285" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.3540091" side_tool="true" weight="0.83114755" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="R Graphics" order="5" />
+      <window_info anchor="right" id="R Packages" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/KeTang/testcase/test_add_card.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/KeTang/lib/email_1.py</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/jiekou20190224$Unittests_for_test_add_fuel_card_TestAddFuelCard.coverage" NAME="Unittests for test_add_fuel_card.TestAddFuelCard Coverage Results" MODIFIED="1574436600186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KeTang/testcase" />
+    <SUITE FILE_PATH="coverage/jiekou20190224$Unittests_for_test_query_fuel_card_TestQueryFuelCard.coverage" NAME="Unittests for test_query_fuel_card.TestQueryFuelCard Coverage Results" MODIFIED="1570980230518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KeTang/testcase" />
+    <SUITE FILE_PATH="coverage/jiekou20190224$Unittests_for_test_add_fuel_card_TestAddFuelCard_test_add_fuel_card.coverage" NAME="Unittests for test_add_fuel_card.TestAddFuelCard.test_add_fuel_card Coverage Results" MODIFIED="1574177857214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KeTang/testcase" />
+    <SUITE FILE_PATH="coverage/jiekou20190224$day03_execise_02.coverage" NAME="day03_execise_02 Coverage Results" MODIFIED="1574435956820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Python15期笔记/第三天/老师代码/day03" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://I:/最近/自动化测试项目/jiekou201903017/KeTang/run.py" />
+    <entry file="file://$PROJECT_DIR$/KeTang/lib/excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#18#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KeTang/log/log.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KeTang/report/report.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KeTang/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Python15期笔记/第三天/老师代码/day03/day03_execise_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="32" column="26" lean-forward="true" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KeTang/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="18" column="128" selection-start-line="18" selection-start-column="128" selection-end-line="18" selection-end-column="128" />
+          <folding>
+            <element signature="e#13#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KeTang/lib/db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#12#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KeTang/testcase/test_add_fuel_card.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KeTang/lib/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KeTang/testcase/test_query_fuel_card.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KeTang/lib/email_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+          <folding>
+            <element signature="e#11#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
